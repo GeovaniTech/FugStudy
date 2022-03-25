@@ -2,7 +2,9 @@
 
 > Status: Stopped&#x274C;
 
-### Site vai trazer funcionalidades como chat, resumos de quantas aulas vai ter na semana, hipotese de aprovação, suas tarefas atribuidas, visão de notas, boletin e dentre várias outras funções.
+### No momento o projeto está parado até eu entender bem as tecnologias utilizadas com o BootStrap. Assim que tiver entendo grande parte do que faz o código retornarei para o desenvolvimento do mesmo.
+
+### Site vai trazer funcionalidades como chat, resumos de quantas aulas vai ter na semana, hipótese de aprovação, suas tarefas atribuídas, visão de notas, boletim e dentre várias outras funções.
 
 ### Principais Tecnologias: HTML, CSS, Java - BackEnd e BootStrap
 
